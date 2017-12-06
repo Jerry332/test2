@@ -14,7 +14,7 @@ public class MethodOverload {
 		// TODO Auto-generated method stub
 		overload test=new overload();
      System.out.println(test.add(1, 3));
-     System.out.println(test.add(1, 2, 3));
+     System.out.println(test.add(1, 2, 7));
 	
 	}
 }
